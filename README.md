@@ -1,2 +1,1 @@
-# alx-system_engineering-devops
-Shellbasics 
+this readme file contains the answers to the shell redirection task
